@@ -2,7 +2,7 @@
 
 ### 👀 Interests  
 - 🕹️ **OG Fortnite**  
-- 💻 Exploring backend development (OGFN Fortnite) 
+- 💻 Exploring backend development (OGFN) 
 
 ### 🌱 Currently Learning  
 - 🛠️ **C++** – It's hard lol
