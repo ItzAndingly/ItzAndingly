@@ -17,3 +17,6 @@
 
 ### 📫 Connect with Me  
 - 💬 Discord: `@andinglyy` 
+
+### ❤ My Loves
+- [@Burlone](https://github.com/burlone0)
