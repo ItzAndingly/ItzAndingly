@@ -8,12 +8,12 @@
 - 🛠️ **C++** – It's hard lol
 
 ### ⚡ Fun Fact  
-- 🎯 I’m into **Modding** and creating custom **emotes, musicpacks and skins** for ogfn versions  
+- 🎯 I’m into **Modding** and creating custom **Emotes, Musicpacks and Skins** for ogfn versions  
 
-### 🛠️ Tools & Technologies  
-- **Languages:** C++, Lua, Python
-- **Tools:** Reload Backend, Roblox Studio 
-- **Games:** Fortnite, Strucid, BuildNow.gg 
+### 🛠️ Tools I Use  
+- **Languages:** C++ (Learning) and Lua
+- **Tools:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend), [Roblox Studio](https://create.roblox.com/landing)
+- **Games:** [Fortnite](https://www.fortnite.com/?lang=en-US), [Roblox](https://www.roblox.com/), [BuildNow.gg](https://www.crazygames.com/game/buildnow-gg)
 
 ### 📫 Connect with Me  
 - 💬 Discord: `@andinglyy` 
