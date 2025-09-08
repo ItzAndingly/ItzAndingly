@@ -12,7 +12,7 @@
 - **Games:** [Fortnite](https://www.fortnite.com/?lang=en-US), [Roblox](https://www.roblox.com/), [BuildNow.gg](https://www.crazygames.com/game/buildnow-gg) [Valorant](https://playvalorant.com/en-us/)
 
 ### 📫 Connect with Me  
-- 💬 Discord: `@andinglyy.` 
+- 💬 Discord: `@andingly.y` 
 
 ### ❤ My Loves
 - [@Burlone](https://github.com/burlone0)
